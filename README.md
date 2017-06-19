@@ -13,20 +13,20 @@ The package has the following content.
 WxGenerate.doctypes:addFieldToDoctype		- adds a given field to a given doctype<br />
 WxGenerate.doctypes:createDoctype			- creates a new doctype<br />
 WxGenerate.doctypes:createField				- creates a new field<br />
-WxGenerate.doctypes:getJavaWrapperTypes		- displays the possible Java values for an field of type object
-WxGenerate.doctypes:saveDoctype				- saves the doctype
+WxGenerate.doctypes:getJavaWrapperTypes		- displays the possible Java values for an field of type object<br />
+WxGenerate.doctypes:saveDoctype				- saves the doctype<br />
 
 ### WxGenerate.flows
-WxGenerate.flows:addExitFrom				- adds an exit step to the flow
-WxGenerate.flows:addIfThanElse				- adds a if-then-else-branch to the flow
-WxGenerate.flows:addInvoke					- adds an invoke step to the flow
-WxGenerate.flows:addMap						- adds a map line from source to dest field to the flow
-WxGenerate.flows:addMapStep					- adds a map step to the flow
-WxGenerate.flows:addSwitchCase				- adds a switch-case step to the flow
-WxGenerate.flows:checkForPackage			- checks if a given package is present in IS
-WxGenerate.flows:createFlowRoot				- creates the base flow service
-WxGenerate.flows:getFlowRoot				- get the flowRoot
-WxGenerate.flows:saveFlow					- saves the given flow
+WxGenerate.flows:addExitFrom				- adds an exit step to the flow<br />
+WxGenerate.flows:addIfThanElse				- adds a if-then-else-branch to the flow<br />
+WxGenerate.flows:addInvoke					- adds an invoke step to the flow<br />
+WxGenerate.flows:addMap						- adds a map line from source to dest field to the flow<br />
+WxGenerate.flows:addMapStep					- adds a map step to the flow<br />
+WxGenerate.flows:addSwitchCase				- adds a switch-case step to the flow<br />
+WxGenerate.flows:checkForPackage			- checks if a given package is present in IS<br />
+WxGenerate.flows:createFlowRoot				- creates the base flow service<br />
+WxGenerate.flows:getFlowRoot				- get the flowRoot<br />
+WxGenerate.flows:saveFlow					- saves the given flow<br />
 
 ## Samples
 The flows in sample folder demos the usage of the aboved mentioned services in the following demo flows.
