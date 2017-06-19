@@ -10,9 +10,9 @@ Generates IS Flows programmatically
 The package has the following content.
 
 ### WxGenerate.doctypes
-WxGenerate.doctypes:addFieldToDoctype		- adds a given field to a given doctype
-WxGenerate.doctypes:createDoctype			- creates a new doctype
-WxGenerate.doctypes:createField				- creates a new field
+WxGenerate.doctypes:addFieldToDoctype		- adds a given field to a given doctype<br />
+WxGenerate.doctypes:createDoctype			- creates a new doctype<br />
+WxGenerate.doctypes:createField				- creates a new field<br />
 WxGenerate.doctypes:getJavaWrapperTypes		- displays the possible Java values for an field of type object
 WxGenerate.doctypes:saveDoctype				- saves the doctype
 
