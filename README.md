@@ -9,14 +9,14 @@ Generates IS Flows programmatically
 ## Package Description
 The package has the following content.
 
-###WxGenerate.doctypes
+### WxGenerate.doctypes
 WxGenerate.doctypes:addFieldToDoctype		- adds a given field to a given doctype
 WxGenerate.doctypes:createDoctype			- creates a new doctype
 WxGenerate.doctypes:createField				- creates a new field
 WxGenerate.doctypes:getJavaWrapperTypes		- displays the possible Java values for an field of type object
 WxGenerate.doctypes:saveDoctype				- saves the doctype
 
-###WxGenerate.flows
+### WxGenerate.flows
 WxGenerate.flows:addExitFrom				- adds an exit step to the flow
 WxGenerate.flows:addIfThanElse				- adds a if-then-else-branch to the flow
 WxGenerate.flows:addInvoke					- adds an invoke step to the flow
